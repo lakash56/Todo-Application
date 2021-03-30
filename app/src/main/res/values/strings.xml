@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">todo_application</string>
+    <string name="to_do_application">TO-DO App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="priority">priority</string>
+    <string name="add_task">Add Task</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+
+</resources>
